@@ -1,0 +1,114 @@
+{
+  "question": [
+    {
+      "answer": "Mount Everest",
+      "category": "Geography",
+      "choices": [
+        "Mount Kilimanjaro",
+        "Mount Everest",
+        "K2",
+        "Denali"
+      ],
+      "question": "What is the highest mountain in the world?"
+    },
+    {
+      "answer": "Nile",
+      "category": "Geography",
+      "choices": [
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
+      ],
+      "question": "Which is the longest river in the world?"
+    },
+    {
+      "answer": "France",
+      "category": "History",
+      "choices": [
+        "Germany",
+        "Italy",
+        "France",
+        "Spain"
+      ],
+      "question": "In which country did the French Revolution take place?"
+    },
+    {
+      "answer": "China",
+      "category": "Population",
+      "choices": [
+        "India",
+        "United States",
+        "China",
+        "Indonesia"
+      ],
+      "question": "Which country has the largest population in the world?"
+    },
+    {
+      "answer": "Cairo",
+      "category": "Geography",
+      "choices": [
+        "Cairo",
+        "Nairobi",
+        "Johannesburg",
+        "Lagos"
+      ],
+      "question": "What is the capital of Egypt?"
+    },
+    {
+      "answer": "Pacific Ocean",
+      "category": "Geography",
+      "choices": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "question": "Which is the largest ocean in the world?"
+    },
+    {
+      "answer": "Australia",
+      "category": "Geography",
+      "choices": [
+        "Greenland",
+        "New Guinea",
+        "Borneo",
+        "Australia"
+      ],
+      "question": "Which is the largest island in the world?"
+    },
+    {
+      "answer": "Ganges",
+      "category": "Geography",
+      "choices": [
+        "Yangtze",
+        "Ganges",
+        "Volga",
+        "Seine"
+      ],
+      "question": "Which river is considered sacred in India?"
+    },
+    {
+      "answer": "Antarctica",
+      "category": "Geography",
+      "choices": [
+        "Arctic",
+        "Antarctica",
+        "Greenland",
+        "Iceland"
+      ],
+      "question": "Which continent is known as the coldest place on Earth?"
+    },
+    {
+      "answer": "Brazil",
+      "category": "Geography",
+      "choices": [
+        "Argentina",
+        "Brazil",
+        "Colombia",
+        "Peru"
+      ],
+      "question": "Which country is the largest in South America?"
+    }
+  ]
+}
